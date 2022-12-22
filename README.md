@@ -9,27 +9,16 @@ In addition to these, social areas and classes where lessons are given have also
 
 **A micro scale of the technical details of the project**
  The project went through the following stages in general during the construction phase: (1) Defining the common properties of objects using class structures (class), defining object properties and methods that handle objects within these structures, (2) Creating objects using defined classes, solving problems with these objects.
-At first glance, we see several related classes.A hierarchy was established between the related classes with the help of the inheritance principle.In this way, duplicating the codes is avoided.
+At first glance, we see several related classes. An instance of a public class:
+![Ekran görüntüsü_20221222_124323](https://user-images.githubusercontent.com/121099203/209106523-bebc4e03-af5c-4659-8adb-0ecc4d4ecb6b.png)
+
+
+
+
+
+
+A hierarchy was established between the related classes with the help of the inheritance principle.In this way, duplicating the codes is avoided. Here is a small example of it:
 ![Ekran görüntüsü_2022127822_121856](https://user-images.githubusercontent.com/121099203/209103121-209e5d44-a094-480f-ae90-28449d998db8.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
