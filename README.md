@@ -1,4 +1,46 @@
-#  oop_project #
+#oop_project#
 ** About the project **
 This project has been prepared as a term project within the scope of Ceng213 Object Oriented Programming (OOP) course.This project is a multi-layered system of departments that includes lecturers, staff, students, courses and areas in the department.
-![IMG-20200603-WA0002](https://user-images.githubusercontent.com/121099203/208877341-26dc05a6-02c0-4836-8166-0a06c35d27d2.jpg)
+This project aims to present a perspective on Gazi University Computer Engineering Department.
+Generally; lecturers are identified by their name and surname, id number and the courses they teach. In addition to the lecturers, there are other staff whose job descriptions are specified in terms of the sustainability of the functioning of the department.
+On the other hand, there is a student part of the project. It is defined whether the students graduated or not. In addition, each student's ID number, name - surname information, the courses s(he) took and the grade information of these courses were added.Degree information of graduate students is also given. 
+Course code, name, credit and location information of the courses given in the department are defined. The information of the instructor giving the course and the ID number of the student taking the course are also available in the system.
+In addition to these, social areas and classes where lessons are given have also been created.
+
+** A micro scale of the technical details of the project **
+ The project went through the following stages in general during the construction phase: (1) Defining the common properties of objects using class structures (class), defining object properties and methods that handle objects within these structures, (2) Creating objects using defined classes, solving problems with these objects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
